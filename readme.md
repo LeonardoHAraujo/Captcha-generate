@@ -1,5 +1,5 @@
-Autor: Leonardo Araújo
+# Captcha generator
 
-Nome: Gerador captcha
+*Powered by Leonardo Araújo*
 
-Gerador de captcha simples para form, utilizando sqlite.
+Simple captcha generator for form, using sqlite.
